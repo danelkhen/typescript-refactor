@@ -1,0 +1,22 @@
+{
+  "name": "typescript-refactor",
+  "version": "1.0.0",
+  "description": "TypeScript Refactoring and Code Generation Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danelkhen/typescript-refactor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danelkhen/typescript-refactor/issues"
+  },
+  "homepage": "https://github.com/danelkhen/typescript-refactor#readme",
+  "dependencies": {
+    "@types/node": "^6.0.55"
+  }
+}
